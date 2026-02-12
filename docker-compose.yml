@@ -1,0 +1,42 @@
+services:
+  nginx:
+    build: ./nginx
+    container_name: nginx
+    ports:
+      - "8080:80"
+    volumes:
+      - nginx_logs:/var/log/nginx
+    depends_on:
+      - app
+    networks:
+      - app-network
+
+  clickhouse:
+    image: clickhouse/clickhouse-server:24.3
+    container_name: clickhouse
+    ports:
+      - "8123:8123"
+      - "9000:9000"
+    volumes:
+      - ./clickhouse/clickhouse-init.sql:/docker-entrypoint-initdb.d/init.sql
+      - clickhouse_data:/var/lib/clickhouse
+    networks:
+      - app-network
+
+  fluentbit:
+    build: ./fluentbit
+    container_name: fluentbit
+    depends_on:
+      - clickhouse
+      - nginx
+    volumes:
+      - nginx_logs:/var/log/nginx
+    networks:
+      - app-network
+
+volumes:
+  clickhouse_data:
+  nginx_logs:
+
+networks:
+  app-network:
