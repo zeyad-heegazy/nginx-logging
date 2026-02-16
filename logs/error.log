@@ -1,0 +1,1213 @@
+2026/02/12 20:05:41 [warn] 2087#60: SSL_do_handshake() failed
+2026/02/12 20:11:18 [notice] 9734#14: *701 client intended to send too large body
+2026/02/12 20:11:25 [crit] 9160#17: access forbidden by rule
+2026/02/12 20:11:28 [crit] 3671#3: access forbidden by rule
+2026/02/12 20:12:06 [error] 6474#1: *983 recv() failed (104: Connection reset by peer)
+2026/02/12 20:12:08 [info] 3686#83: *994 access forbidden by rule
+2026/02/12 20:12:09 [crit] 9814#55: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:13:21 [crit] 4196#44: *208 client intended to send too large body
+2026/02/12 20:13:25 [warn] 1567#46: *184 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:13:34 [notice] 6208#95: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 20:14:52 [info] 7656#9: SSL_do_handshake() failed
+2026/02/12 20:14:54 [notice] 2496#43: *120 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:15:03 [info] 6970#54: *713 client intended to send too large body
+2026/02/12 20:17:43 [error] 6843#96: *909 client intended to send too large body
+2026/02/12 20:17:46 [error] 1903#32: *309 client intended to send too large body
+2026/02/12 20:17:54 [notice] 6755#89: *212 access forbidden by rule
+2026/02/12 20:20:56 [warn] 4485#56: *947 SSL_do_handshake() failed
+2026/02/12 20:21:02 [error] 9112#0: *683 no live upstreams while connecting to upstream
+2026/02/12 20:23:29 [info] 8261#4: *968 access forbidden by rule
+2026/02/12 20:26:09 [error] 1299#38: recv() failed (104: Connection reset by peer)
+2026/02/12 20:26:10 [warn] 9062#61: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 20:28:03 [error] 2774#70: recv() failed (104: Connection reset by peer)
+2026/02/12 20:28:15 [warn] 3730#90: *859 access forbidden by rule
+2026/02/12 20:28:23 [info] 2359#38: *258 client intended to send too large body
+2026/02/12 20:28:24 [warn] 4430#27: no live upstreams while connecting to upstream
+2026/02/12 20:28:27 [notice] 8254#30: *634 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:28:35 [notice] 9322#81: *530 recv() failed (104: Connection reset by peer)
+2026/02/12 20:28:36 [notice] 3630#49: *448 SSL_do_handshake() failed
+2026/02/12 20:28:39 [notice] 1188#74: SSL_do_handshake() failed
+2026/02/12 20:28:48 [notice] 8135#24: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 20:28:55 [error] 3584#65: *403 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:28:58 [warn] 8918#60: access forbidden by rule
+2026/02/12 20:29:06 [error] 9659#89: *614 SSL_do_handshake() failed
+2026/02/12 20:29:10 [info] 6901#11: *319 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 20:29:15 [info] 8186#94: no live upstreams while connecting to upstream
+2026/02/12 20:29:21 [info] 4963#96: *211 recv() failed (104: Connection reset by peer)
+2026/02/12 20:29:29 [crit] 7178#87: *208 no live upstreams while connecting to upstream
+2026/02/12 20:29:37 [crit] 2598#75: no live upstreams while connecting to upstream
+2026/02/12 20:29:41 [notice] 2676#40: *516 SSL_do_handshake() failed
+2026/02/12 20:29:43 [info] 3350#20: *885 client intended to send too large body
+2026/02/12 20:29:59 [crit] 7377#19: client intended to send too large body
+2026/02/12 20:30:01 [notice] 9740#64: *580 client intended to send too large body
+2026/02/12 20:30:05 [error] 6976#31: *940 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:30:09 [notice] 4763#25: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:30:12 [error] 9534#61: SSL_do_handshake() failed
+2026/02/12 20:30:15 [notice] 1340#55: *531 client intended to send too large body
+2026/02/12 20:30:18 [crit] 9949#47: no live upstreams while connecting to upstream
+2026/02/12 20:30:19 [info] 1827#70: SSL_do_handshake() failed
+2026/02/12 20:30:31 [info] 1918#56: SSL_do_handshake() failed
+2026/02/12 20:30:32 [info] 2238#86: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:30:34 [info] 1768#77: client intended to send too large body
+2026/02/12 20:30:40 [warn] 6609#39: *908 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:30:44 [notice] 1517#50: SSL_do_handshake() failed
+2026/02/12 20:30:49 [warn] 7460#11: SSL_do_handshake() failed
+2026/02/12 20:30:57 [notice] 9875#10: recv() failed (104: Connection reset by peer)
+2026/02/12 20:31:02 [error] 6627#24: *407 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 20:31:05 [error] 4967#90: *483 no live upstreams while connecting to upstream
+2026/02/12 20:31:06 [error] 4001#11: SSL_do_handshake() failed
+2026/02/12 20:31:10 [error] 4959#50: *506 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:31:13 [notice] 6227#77: *712 SSL_do_handshake() failed
+2026/02/12 20:31:16 [info] 1779#55: *772 SSL_do_handshake() failed
+2026/02/12 20:31:18 [notice] 6973#54: *659 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 20:31:27 [notice] 6036#20: *232 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:31:30 [notice] 7067#53: *206 client intended to send too large body
+2026/02/12 20:31:33 [warn] 3061#92: *487 recv() failed (104: Connection reset by peer)
+2026/02/12 20:31:35 [info] 6615#71: *179 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 20:31:43 [crit] 1656#69: *791 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:31:52 [crit] 6530#48: *499 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:31:55 [crit] 5219#60: *233 no live upstreams while connecting to upstream
+2026/02/12 20:32:04 [info] 8052#54: *911 recv() failed (104: Connection reset by peer)
+2026/02/12 20:32:11 [crit] 9703#3: *823 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:32:14 [crit] 6105#47: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:32:17 [warn] 9106#1: *240 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:32:20 [warn] 9354#45: *491 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:32:21 [crit] 8767#35: recv() failed (104: Connection reset by peer)
+2026/02/12 20:32:25 [notice] 8854#63: *945 access forbidden by rule
+2026/02/12 20:32:27 [error] 3329#34: *979 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:32:28 [error] 1702#95: client intended to send too large body
+2026/02/12 20:32:31 [crit] 6363#99: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:32:32 [crit] 6012#23: access forbidden by rule
+2026/02/12 20:32:33 [crit] 9044#9: *470 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:32:43 [info] 2749#61: *549 recv() failed (104: Connection reset by peer)
+2026/02/12 20:32:57 [notice] 4493#99: SSL_do_handshake() failed
+2026/02/12 20:33:00 [crit] 5140#80: *768 no live upstreams while connecting to upstream
+2026/02/12 20:33:08 [info] 5963#70: *112 recv() failed (104: Connection reset by peer)
+2026/02/12 20:33:10 [error] 7198#45: *171 recv() failed (104: Connection reset by peer)
+2026/02/12 20:33:19 [warn] 8736#36: *905 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:33:20 [notice] 2952#56: *439 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:33:22 [error] 2319#25: *517 no live upstreams while connecting to upstream
+2026/02/12 20:33:26 [info] 4042#0: *712 recv() failed (104: Connection reset by peer)
+2026/02/12 20:33:28 [notice] 4480#64: client intended to send too large body
+2026/02/12 20:33:32 [crit] 3869#79: *154 recv() failed (104: Connection reset by peer)
+2026/02/12 20:33:35 [error] 7870#69: SSL_do_handshake() failed
+2026/02/12 20:33:42 [info] 6975#33: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:42:36 [notice] 6171#81: *206 no live upstreams while connecting to upstream
+2026/02/12 20:42:37 [warn] 4283#10: no live upstreams while connecting to upstream
+2026/02/12 20:42:45 [warn] 2838#91: *113 recv() failed (104: Connection reset by peer)
+2026/02/12 20:42:49 [info] 2137#95: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 20:42:52 [notice] 4270#29: *396 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 20:42:54 [crit] 5192#59: *852 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 20:42:56 [info] 9805#66: *366 client intended to send too large body
+2026/02/12 20:43:02 [crit] 3771#96: *113 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 20:43:09 [error] 3229#76: recv() failed (104: Connection reset by peer)
+2026/02/12 20:43:11 [error] 1201#77: *841 client intended to send too large body
+2026/02/12 20:43:12 [warn] 9277#54: *587 client intended to send too large body
+2026/02/12 20:43:17 [notice] 1892#59: *979 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:32:11 [error] 8583#63: *415 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:32:12 [notice] 3124#83: SSL_do_handshake() failed
+2026/02/12 22:32:25 [notice] 7531#55: *393 no live upstreams while connecting to upstream
+2026/02/12 22:32:27 [info] 5064#63: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:32:32 [error] 3321#96: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:32:41 [notice] 9507#42: SSL_do_handshake() failed
+2026/02/12 22:32:43 [notice] 9092#14: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:32:45 [warn] 1515#1: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:32:47 [crit] 1454#3: access forbidden by rule
+2026/02/12 22:32:48 [warn] 2744#35: *617 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:32:51 [notice] 7394#53: *524 SSL_do_handshake() failed
+2026/02/12 22:32:56 [crit] 2888#17: *478 client intended to send too large body
+2026/02/12 22:33:02 [info] 2073#1: *483 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:33:11 [crit] 2542#28: *344 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:33:15 [crit] 8625#9: *675 SSL_do_handshake() failed
+2026/02/12 22:33:17 [warn] 6878#45: *750 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:33:21 [crit] 3606#31: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:33:23 [crit] 7934#19: SSL_do_handshake() failed
+2026/02/12 22:33:25 [notice] 9212#16: *705 no live upstreams while connecting to upstream
+2026/02/12 22:33:31 [info] 4457#4: *802 SSL_do_handshake() failed
+2026/02/12 22:33:34 [warn] 4503#88: *203 recv() failed (104: Connection reset by peer)
+2026/02/12 22:33:36 [error] 6358#98: *592 access forbidden by rule
+2026/02/12 22:33:58 [warn] 8043#63: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:34:04 [warn] 2671#44: *345 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:34:05 [notice] 1304#45: *313 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:34:07 [warn] 4965#95: *479 access forbidden by rule
+2026/02/12 22:34:20 [warn] 9406#29: *979 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:34:26 [error] 2028#8: *466 client intended to send too large body
+2026/02/12 22:34:27 [info] 4275#89: *448 SSL_do_handshake() failed
+2026/02/12 22:34:30 [error] 7770#43: recv() failed (104: Connection reset by peer)
+2026/02/12 22:34:33 [notice] 8033#46: SSL_do_handshake() failed
+2026/02/12 22:34:34 [info] 7044#53: *588 access forbidden by rule
+2026/02/12 22:34:54 [info] 9557#86: client intended to send too large body
+2026/02/12 22:34:59 [warn] 9766#35: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:35:07 [error] 1441#82: *632 access forbidden by rule
+2026/02/12 22:35:10 [crit] 1643#70: *126 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:35:11 [notice] 6936#7: SSL_do_handshake() failed
+2026/02/12 22:35:20 [error] 5267#18: *201 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:35:24 [error] 4880#82: client intended to send too large body
+2026/02/12 22:35:26 [warn] 4975#52: *726 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:35:27 [error] 3657#2: *238 recv() failed (104: Connection reset by peer)
+2026/02/12 22:35:30 [notice] 6081#50: *777 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:35:43 [error] 5322#90: *872 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:35:44 [crit] 5574#35: *914 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:35:54 [warn] 1726#83: *273 SSL_do_handshake() failed
+2026/02/12 22:35:57 [warn] 2362#16: *160 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:36:01 [notice] 2359#79: *919 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:36:13 [notice] 8352#59: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:36:15 [notice] 7423#54: *416 SSL_do_handshake() failed
+2026/02/12 22:36:20 [crit] 2296#18: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:36:25 [info] 9675#68: *280 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:36:26 [crit] 3460#7: *473 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:36:32 [notice] 4136#68: *890 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:36:39 [info] 6592#23: *161 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:36:41 [notice] 2938#10: *207 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:36:45 [warn] 9721#0: *604 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:36:51 [info] 7976#4: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:36:53 [notice] 6437#55: *479 client intended to send too large body
+2026/02/12 22:36:56 [info] 6471#97: *509 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:36:58 [info] 2301#15: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:37:02 [warn] 7371#33: recv() failed (104: Connection reset by peer)
+2026/02/12 22:37:09 [error] 9454#97: *168 recv() failed (104: Connection reset by peer)
+2026/02/12 22:37:13 [notice] 7470#72: *151 no live upstreams while connecting to upstream
+2026/02/12 22:37:15 [crit] 9450#74: *933 no live upstreams while connecting to upstream
+2026/02/12 22:37:23 [warn] 6372#81: *133 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:37:32 [info] 4560#90: *791 client intended to send too large body
+2026/02/12 22:37:45 [notice] 7849#62: *643 recv() failed (104: Connection reset by peer)
+2026/02/12 22:37:48 [info] 5476#34: *293 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:37:49 [error] 1541#43: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:37:52 [warn] 8346#68: *843 access forbidden by rule
+2026/02/12 22:37:53 [info] 1066#33: *777 SSL_do_handshake() failed
+2026/02/12 22:37:56 [crit] 2703#23: *870 access forbidden by rule
+2026/02/12 22:38:01 [crit] 9933#43: *490 client intended to send too large body
+2026/02/12 22:38:03 [error] 5934#56: *145 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:38:07 [warn] 5685#84: *414 SSL_do_handshake() failed
+2026/02/12 22:38:14 [warn] 3086#50: *750 no live upstreams while connecting to upstream
+2026/02/12 22:38:22 [crit] 3391#19: *274 client intended to send too large body
+2026/02/12 22:38:24 [crit] 8899#32: *744 access forbidden by rule
+2026/02/12 22:38:30 [warn] 3256#76: *749 client intended to send too large body
+2026/02/12 22:38:38 [notice] 3597#89: access forbidden by rule
+2026/02/12 22:38:43 [info] 1696#82: SSL_do_handshake() failed
+2026/02/12 22:38:45 [warn] 4547#77: *554 access forbidden by rule
+2026/02/12 22:38:51 [crit] 5606#53: *198 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:38:55 [error] 3939#90: recv() failed (104: Connection reset by peer)
+2026/02/12 22:38:59 [warn] 5337#69: *466 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:39:05 [notice] 1770#24: *435 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:39:12 [crit] 2016#9: *328 client intended to send too large body
+2026/02/12 22:39:19 [notice] 4786#55: *886 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:39:28 [warn] 6521#58: *150 SSL_do_handshake() failed
+2026/02/12 22:39:36 [error] 1684#40: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:39:41 [info] 3183#11: *588 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:39:45 [warn] 3951#34: *278 recv() failed (104: Connection reset by peer)
+2026/02/12 22:39:53 [warn] 9634#46: *922 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:39:56 [crit] 9350#92: *420 access forbidden by rule
+2026/02/12 22:39:59 [warn] 1323#73: *833 access forbidden by rule
+2026/02/12 22:40:02 [crit] 2150#92: access forbidden by rule
+2026/02/12 22:40:07 [crit] 3955#38: access forbidden by rule
+2026/02/12 22:40:11 [notice] 7092#39: *106 client intended to send too large body
+2026/02/12 22:40:17 [notice] 7651#21: *541 access forbidden by rule
+2026/02/12 22:40:26 [notice] 9101#49: *724 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:40:31 [crit] 2183#38: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:40:35 [crit] 5987#29: *276 access forbidden by rule
+2026/02/12 22:40:36 [info] 3461#70: *379 recv() failed (104: Connection reset by peer)
+2026/02/12 22:40:38 [warn] 5863#66: client intended to send too large body
+2026/02/12 22:40:40 [warn] 8474#26: *689 client intended to send too large body
+2026/02/12 22:40:41 [warn] 5072#33: *108 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:40:52 [warn] 7606#35: *425 recv() failed (104: Connection reset by peer)
+2026/02/12 22:40:54 [warn] 4221#23: SSL_do_handshake() failed
+2026/02/12 22:41:03 [info] 3208#69: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:41:04 [error] 8534#72: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:41:18 [info] 6128#56: *109 client intended to send too large body
+2026/02/12 22:41:26 [notice] 5701#91: *876 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:41:30 [info] 6258#92: client intended to send too large body
+2026/02/12 22:41:38 [info] 5343#50: recv() failed (104: Connection reset by peer)
+2026/02/12 22:41:41 [crit] 1220#89: *613 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:41:47 [notice] 6420#34: *305 recv() failed (104: Connection reset by peer)
+2026/02/12 22:41:48 [notice] 6344#2: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:41:53 [warn] 4352#98: access forbidden by rule
+2026/02/12 22:41:54 [error] 8919#55: *583 SSL_do_handshake() failed
+2026/02/12 22:41:57 [warn] 6986#44: *616 no live upstreams while connecting to upstream
+2026/02/12 22:42:00 [info] 9618#8: client intended to send too large body
+2026/02/12 22:42:01 [error] 5802#33: *186 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:42:03 [warn] 7347#56: *500 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:42:12 [info] 4004#42: *289 client intended to send too large body
+2026/02/12 22:42:22 [notice] 7876#49: recv() failed (104: Connection reset by peer)
+2026/02/12 22:42:26 [error] 8437#43: client intended to send too large body
+2026/02/12 22:42:31 [notice] 8503#6: *234 no live upstreams while connecting to upstream
+2026/02/12 22:42:38 [error] 9842#15: SSL_do_handshake() failed
+2026/02/12 22:42:40 [warn] 4251#27: access forbidden by rule
+2026/02/12 22:42:46 [crit] 3079#98: access forbidden by rule
+2026/02/12 22:42:50 [crit] 2724#48: SSL_do_handshake() failed
+2026/02/12 22:42:55 [warn] 2341#56: *963 recv() failed (104: Connection reset by peer)
+2026/02/12 22:43:00 [error] 9151#78: recv() failed (104: Connection reset by peer)
+2026/02/12 22:43:02 [error] 8365#37: *585 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:43:04 [notice] 8398#64: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:43:12 [notice] 6681#26: *813 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:43:13 [info] 6182#37: recv() failed (104: Connection reset by peer)
+2026/02/12 22:43:16 [error] 6195#9: *564 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:43:17 [crit] 6155#87: *667 access forbidden by rule
+2026/02/12 22:43:23 [notice] 3778#61: *383 no live upstreams while connecting to upstream
+2026/02/12 22:43:26 [notice] 5774#21: *366 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:43:40 [info] 9698#0: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:43:48 [warn] 7375#15: *466 no live upstreams while connecting to upstream
+2026/02/12 22:43:49 [error] 6889#25: *980 no live upstreams while connecting to upstream
+2026/02/12 22:43:53 [info] 3876#34: *252 recv() failed (104: Connection reset by peer)
+2026/02/12 22:43:56 [warn] 9787#43: *881 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:43:57 [info] 8219#75: access forbidden by rule
+2026/02/12 22:43:59 [warn] 2735#84: no live upstreams while connecting to upstream
+2026/02/12 22:44:10 [error] 7517#84: *674 recv() failed (104: Connection reset by peer)
+2026/02/12 22:44:18 [error] 7597#69: *964 client intended to send too large body
+2026/02/12 22:44:21 [error] 8045#64: *304 client intended to send too large body
+2026/02/12 22:44:30 [warn] 5041#83: access forbidden by rule
+2026/02/12 22:44:32 [error] 5385#79: *322 recv() failed (104: Connection reset by peer)
+2026/02/12 22:44:33 [notice] 8815#54: recv() failed (104: Connection reset by peer)
+2026/02/12 22:44:34 [info] 2599#85: *722 access forbidden by rule
+2026/02/12 22:44:36 [crit] 8860#32: *179 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:44:38 [info] 9946#73: *401 access forbidden by rule
+2026/02/12 22:44:43 [notice] 6383#90: *909 access forbidden by rule
+2026/02/12 22:44:45 [error] 7387#74: *346 client intended to send too large body
+2026/02/12 22:44:50 [warn] 7875#86: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:44:56 [notice] 9725#80: *717 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:44:58 [info] 9729#64: *317 client intended to send too large body
+2026/02/12 22:45:12 [error] 2202#4: SSL_do_handshake() failed
+2026/02/12 22:45:18 [warn] 3593#83: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:45:32 [info] 7689#93: *175 recv() failed (104: Connection reset by peer)
+2026/02/12 22:45:37 [crit] 9110#84: *777 recv() failed (104: Connection reset by peer)
+2026/02/12 22:45:41 [info] 2994#26: *984 access forbidden by rule
+2026/02/12 22:45:47 [error] 4911#36: *850 access forbidden by rule
+2026/02/12 22:45:52 [info] 7791#49: SSL_do_handshake() failed
+2026/02/12 22:45:59 [crit] 1220#9: *368 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:46:14 [crit] 7324#40: *821 access forbidden by rule
+2026/02/12 22:46:28 [crit] 2980#69: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:46:31 [notice] 8655#81: *822 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:46:33 [warn] 3370#7: *898 no live upstreams while connecting to upstream
+2026/02/12 22:46:35 [notice] 7195#40: *464 recv() failed (104: Connection reset by peer)
+2026/02/12 22:47:12 [info] 2349#37: *919 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:47:15 [notice] 1689#90: recv() failed (104: Connection reset by peer)
+2026/02/12 22:47:22 [notice] 8445#29: *256 recv() failed (104: Connection reset by peer)
+2026/02/12 22:47:35 [notice] 4653#95: access forbidden by rule
+2026/02/12 22:47:36 [crit] 7352#89: *568 SSL_do_handshake() failed
+2026/02/12 22:47:38 [notice] 6410#13: SSL_do_handshake() failed
+2026/02/12 22:47:49 [crit] 8087#28: *794 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:47:54 [error] 1754#62: *151 SSL_do_handshake() failed
+2026/02/12 22:47:57 [crit] 2401#89: *795 recv() failed (104: Connection reset by peer)
+2026/02/12 22:48:03 [crit] 6896#20: *220 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:48:04 [warn] 3320#7: *662 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:48:07 [info] 6403#89: *274 access forbidden by rule
+2026/02/12 22:48:12 [crit] 9897#20: *128 SSL_do_handshake() failed
+2026/02/12 22:48:13 [info] 1339#29: *963 client intended to send too large body
+2026/02/12 22:48:16 [error] 6682#94: *728 no live upstreams while connecting to upstream
+2026/02/12 22:48:22 [notice] 2151#33: *614 access forbidden by rule
+2026/02/12 22:48:31 [error] 3287#20: *118 no live upstreams while connecting to upstream
+2026/02/12 22:48:40 [error] 3758#18: *325 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:48:42 [notice] 2768#93: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:48:43 [error] 2583#0: *148 no live upstreams while connecting to upstream
+2026/02/12 22:48:44 [crit] 6411#17: *571 SSL_do_handshake() failed
+2026/02/12 22:48:45 [notice] 6286#20: *897 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:48:47 [error] 3074#54: *498 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:48:48 [warn] 1027#81: no live upstreams while connecting to upstream
+2026/02/12 22:48:49 [error] 3895#91: *776 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:48:58 [crit] 1877#22: *252 no live upstreams while connecting to upstream
+2026/02/12 22:49:06 [info] 8952#71: no live upstreams while connecting to upstream
+2026/02/12 22:49:08 [error] 6548#76: *198 no live upstreams while connecting to upstream
+2026/02/12 22:49:21 [crit] 5408#18: *135 recv() failed (104: Connection reset by peer)
+2026/02/12 22:49:24 [error] 4049#13: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:49:32 [crit] 5262#48: *331 no live upstreams while connecting to upstream
+2026/02/12 22:49:36 [warn] 3861#52: *816 SSL_do_handshake() failed
+2026/02/12 22:49:40 [notice] 8427#41: *631 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:49:46 [info] 2083#53: *584 client intended to send too large body
+2026/02/12 22:49:55 [info] 9669#38: *949 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:49:59 [warn] 6228#68: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:50:12 [crit] 4855#9: *336 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:50:15 [crit] 3651#26: *405 client intended to send too large body
+2026/02/12 22:50:18 [info] 4179#27: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:50:27 [error] 1599#57: *200 SSL_do_handshake() failed
+2026/02/12 22:50:39 [info] 7687#53: *235 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:50:41 [warn] 2882#53: no live upstreams while connecting to upstream
+2026/02/12 22:50:44 [info] 9796#28: *619 SSL_do_handshake() failed
+2026/02/12 22:50:46 [notice] 1086#31: client intended to send too large body
+2026/02/12 22:50:49 [error] 1445#35: *939 SSL_do_handshake() failed
+2026/02/12 22:50:51 [crit] 1481#39: *962 SSL_do_handshake() failed
+2026/02/12 22:50:54 [info] 1714#15: *923 access forbidden by rule
+2026/02/12 22:50:57 [notice] 2106#9: *220 recv() failed (104: Connection reset by peer)
+2026/02/12 22:51:01 [warn] 8639#91: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:51:02 [notice] 9776#64: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:51:14 [notice] 9101#8: *205 recv() failed (104: Connection reset by peer)
+2026/02/12 22:51:17 [notice] 1897#71: *669 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:51:28 [info] 1077#89: no live upstreams while connecting to upstream
+2026/02/12 22:51:30 [warn] 2375#45: *599 client intended to send too large body
+2026/02/12 22:51:33 [crit] 2340#99: *317 recv() failed (104: Connection reset by peer)
+2026/02/12 22:51:39 [crit] 2296#37: *136 SSL_do_handshake() failed
+2026/02/12 22:51:44 [notice] 5554#86: *256 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:51:49 [error] 9870#99: *446 recv() failed (104: Connection reset by peer)
+2026/02/12 22:51:51 [notice] 7907#88: no live upstreams while connecting to upstream
+2026/02/12 22:51:53 [crit] 6302#59: *964 SSL_do_handshake() failed
+2026/02/12 22:52:00 [warn] 8450#86: *728 no live upstreams while connecting to upstream
+2026/02/12 22:52:11 [info] 3735#44: SSL_do_handshake() failed
+2026/02/12 22:52:16 [notice] 2210#99: *981 no live upstreams while connecting to upstream
+2026/02/12 22:52:29 [info] 8949#91: *156 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:52:32 [info] 2558#61: recv() failed (104: Connection reset by peer)
+2026/02/12 22:52:33 [crit] 3811#14: *570 SSL_do_handshake() failed
+2026/02/12 22:52:36 [notice] 7792#30: SSL_do_handshake() failed
+2026/02/12 22:52:39 [notice] 1219#43: *517 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:52:40 [crit] 6071#11: *970 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:52:41 [warn] 7883#13: *606 access forbidden by rule
+2026/02/12 22:52:48 [notice] 2728#41: *974 client intended to send too large body
+2026/02/12 22:52:53 [warn] 5922#85: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:52:55 [error] 9825#16: *482 recv() failed (104: Connection reset by peer)
+2026/02/12 22:53:00 [notice] 3277#90: *718 no live upstreams while connecting to upstream
+2026/02/12 22:53:02 [crit] 7611#88: recv() failed (104: Connection reset by peer)
+2026/02/12 22:53:04 [crit] 7838#59: *287 no live upstreams while connecting to upstream
+2026/02/12 22:53:08 [error] 6254#77: *148 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:53:10 [crit] 6623#33: *168 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:53:13 [crit] 4804#14: no live upstreams while connecting to upstream
+2026/02/12 22:53:17 [error] 3879#2: *683 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:53:19 [info] 2316#58: *730 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:53:23 [error] 9595#96: *876 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:53:28 [notice] 3063#31: *981 SSL_do_handshake() failed
+2026/02/12 22:53:38 [error] 6469#73: client intended to send too large body
+2026/02/12 22:53:41 [error] 1604#47: client intended to send too large body
+2026/02/12 22:53:42 [info] 3014#23: *713 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:53:52 [crit] 9392#13: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:53:58 [warn] 4618#47: *927 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:54:02 [error] 6095#60: *398 SSL_do_handshake() failed
+2026/02/12 22:54:06 [warn] 2503#10: *597 client intended to send too large body
+2026/02/12 22:54:09 [info] 4550#96: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:54:12 [crit] 3553#99: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:54:13 [error] 8053#80: *172 recv() failed (104: Connection reset by peer)
+2026/02/12 22:54:16 [info] 7157#11: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:54:18 [info] 9025#1: no live upstreams while connecting to upstream
+2026/02/12 22:54:21 [warn] 4508#59: *901 access forbidden by rule
+2026/02/12 22:54:23 [info] 7292#10: no live upstreams while connecting to upstream
+2026/02/12 22:54:28 [error] 1722#36: *437 client intended to send too large body
+2026/02/12 22:54:30 [notice] 1292#51: *932 client intended to send too large body
+2026/02/12 22:54:31 [info] 6806#97: *200 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:54:35 [error] 1815#75: *543 SSL_do_handshake() failed
+2026/02/12 22:54:36 [warn] 4307#51: *734 no live upstreams while connecting to upstream
+2026/02/12 22:54:40 [info] 1153#63: access forbidden by rule
+2026/02/12 22:54:42 [error] 7375#92: *907 no live upstreams while connecting to upstream
+2026/02/12 22:54:43 [crit] 4974#32: *745 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:54:50 [warn] 9865#64: client intended to send too large body
+2026/02/12 22:55:02 [warn] 1960#28: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:55:05 [crit] 8358#26: *511 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:55:11 [info] 9621#70: access forbidden by rule
+2026/02/12 22:55:12 [error] 2196#14: *729 access forbidden by rule
+2026/02/12 22:55:22 [crit] 4628#85: SSL_do_handshake() failed
+2026/02/12 22:55:26 [crit] 7254#91: *303 recv() failed (104: Connection reset by peer)
+2026/02/12 22:55:45 [error] 8953#4: *376 SSL_do_handshake() failed
+2026/02/12 22:55:46 [info] 1355#44: *797 recv() failed (104: Connection reset by peer)
+2026/02/12 22:55:48 [notice] 5392#30: *298 no live upstreams while connecting to upstream
+2026/02/12 22:55:51 [error] 5996#85: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:55:52 [warn] 5230#94: no live upstreams while connecting to upstream
+2026/02/12 22:55:54 [notice] 2938#32: *385 client intended to send too large body
+2026/02/12 22:56:01 [info] 9336#87: *911 SSL_do_handshake() failed
+2026/02/12 22:56:06 [info] 4900#54: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:56:10 [notice] 2065#60: *281 SSL_do_handshake() failed
+2026/02/12 22:56:13 [warn] 4179#42: *654 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:56:19 [info] 5959#16: *354 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:56:22 [warn] 1520#76: SSL_do_handshake() failed
+2026/02/12 22:56:31 [info] 2414#73: *353 recv() failed (104: Connection reset by peer)
+2026/02/12 22:56:32 [notice] 7279#67: *664 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:56:49 [info] 4544#91: *212 recv() failed (104: Connection reset by peer)
+2026/02/12 22:56:50 [notice] 5669#76: *657 no live upstreams while connecting to upstream
+2026/02/12 22:56:55 [warn] 5507#87: *885 client intended to send too large body
+2026/02/12 22:57:01 [error] 8741#38: *649 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:57:02 [error] 9426#59: *407 client intended to send too large body
+2026/02/12 22:57:05 [error] 2650#22: *841 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:57:07 [info] 7923#90: *990 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:57:17 [info] 4449#45: recv() failed (104: Connection reset by peer)
+2026/02/12 22:57:19 [crit] 7277#21: client intended to send too large body
+2026/02/12 22:57:20 [crit] 1055#85: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:57:26 [warn] 2426#51: *923 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:57:27 [error] 2831#71: *569 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:57:36 [info] 2985#37: *189 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:57:41 [error] 4391#91: *502 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:57:43 [warn] 8876#85: client intended to send too large body
+2026/02/12 22:57:45 [info] 2318#87: no live upstreams while connecting to upstream
+2026/02/12 22:57:47 [info] 8125#16: *267 no live upstreams while connecting to upstream
+2026/02/12 22:57:53 [info] 6639#63: *800 recv() failed (104: Connection reset by peer)
+2026/02/12 22:57:56 [notice] 8524#38: *909 access forbidden by rule
+2026/02/12 22:58:03 [info] 2492#63: *761 access forbidden by rule
+2026/02/12 22:58:04 [crit] 7841#55: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 22:58:22 [error] 3186#35: *607 no live upstreams while connecting to upstream
+2026/02/12 22:58:27 [notice] 5589#76: *544 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 22:58:38 [error] 4932#84: *618 SSL_do_handshake() failed
+2026/02/12 22:58:40 [warn] 8363#81: client intended to send too large body
+2026/02/12 22:58:56 [info] 2010#67: *757 access forbidden by rule
+2026/02/12 22:59:02 [crit] 4815#54: *245 client intended to send too large body
+2026/02/12 22:59:04 [info] 6598#32: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 22:59:10 [info] 1486#72: *446 SSL_do_handshake() failed
+2026/02/12 22:59:14 [error] 1225#64: *437 no live upstreams while connecting to upstream
+2026/02/12 22:59:18 [notice] 8147#42: access forbidden by rule
+2026/02/12 22:59:19 [notice] 3647#98: no live upstreams while connecting to upstream
+2026/02/12 22:59:22 [crit] 1120#44: SSL_do_handshake() failed
+2026/02/12 22:59:32 [error] 3202#44: *994 client intended to send too large body
+2026/02/12 22:59:39 [notice] 5664#98: *652 recv() failed (104: Connection reset by peer)
+2026/02/12 22:59:41 [crit] 3767#19: SSL_do_handshake() failed
+2026/02/12 22:59:44 [warn] 9827#50: *466 access forbidden by rule
+2026/02/12 22:59:45 [error] 8772#78: SSL_do_handshake() failed
+2026/02/12 22:59:52 [warn] 7279#57: *519 recv() failed (104: Connection reset by peer)
+2026/02/12 22:59:53 [warn] 4081#85: *140 no live upstreams while connecting to upstream
+2026/02/12 22:59:57 [info] 6275#61: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:00:06 [notice] 6500#87: *273 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:00:14 [error] 6632#75: client intended to send too large body
+2026/02/12 23:00:28 [notice] 8691#60: *890 SSL_do_handshake() failed
+2026/02/12 23:00:33 [error] 6278#30: client intended to send too large body
+2026/02/12 23:00:34 [notice] 2319#99: SSL_do_handshake() failed
+2026/02/12 23:00:35 [crit] 5004#72: access forbidden by rule
+2026/02/12 23:00:41 [crit] 7165#54: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:00:52 [notice] 5954#32: client intended to send too large body
+2026/02/12 23:00:53 [warn] 6960#41: *742 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:01:18 [notice] 3974#22: SSL_do_handshake() failed
+2026/02/12 23:01:28 [warn] 6743#57: *184 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:01:34 [error] 7701#26: *640 recv() failed (104: Connection reset by peer)
+2026/02/12 23:01:46 [info] 1343#77: *444 recv() failed (104: Connection reset by peer)
+2026/02/12 23:01:47 [notice] 5803#52: *810 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:01:52 [crit] 1238#25: *362 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:01:55 [crit] 5550#32: access forbidden by rule
+2026/02/12 23:02:00 [notice] 1499#56: *338 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:02:03 [notice] 1221#88: *648 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:02:13 [notice] 8854#33: no live upstreams while connecting to upstream
+2026/02/12 23:02:23 [warn] 8721#20: *827 client intended to send too large body
+2026/02/12 23:02:25 [crit] 9452#64: *987 SSL_do_handshake() failed
+2026/02/12 23:02:27 [warn] 7632#8: *925 recv() failed (104: Connection reset by peer)
+2026/02/12 23:02:34 [crit] 3586#94: *870 access forbidden by rule
+2026/02/12 23:02:41 [error] 5663#68: *668 no live upstreams while connecting to upstream
+2026/02/12 23:02:44 [info] 6784#5: *825 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:02:46 [error] 6353#97: *423 access forbidden by rule
+2026/02/12 23:02:48 [notice] 3470#79: *386 no live upstreams while connecting to upstream
+2026/02/12 23:03:00 [notice] 6827#91: *479 recv() failed (104: Connection reset by peer)
+2026/02/12 23:03:06 [notice] 8787#94: *438 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:03:08 [crit] 4870#76: *911 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:03:13 [crit] 6512#80: *809 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:03:14 [notice] 9692#25: *932 access forbidden by rule
+2026/02/12 23:03:21 [notice] 9046#27: *760 recv() failed (104: Connection reset by peer)
+2026/02/12 23:03:29 [crit] 4550#60: *764 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:03:31 [warn] 4781#89: access forbidden by rule
+2026/02/12 23:03:37 [error] 6664#24: no live upstreams while connecting to upstream
+2026/02/12 23:03:57 [notice] 3786#34: *655 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:03:58 [info] 2852#31: *875 SSL_do_handshake() failed
+2026/02/12 23:04:12 [warn] 9861#97: *327 SSL_do_handshake() failed
+2026/02/12 23:04:20 [crit] 4134#71: *469 client intended to send too large body
+2026/02/12 23:04:22 [error] 6062#55: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:04:29 [error] 7886#95: *466 client intended to send too large body
+2026/02/12 23:04:30 [error] 9051#1: *446 SSL_do_handshake() failed
+2026/02/12 23:04:44 [info] 8501#98: *318 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:04:46 [notice] 6047#88: access forbidden by rule
+2026/02/12 23:04:50 [error] 6434#82: SSL_do_handshake() failed
+2026/02/12 23:05:00 [error] 4744#55: *341 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:05:06 [warn] 7009#22: no live upstreams while connecting to upstream
+2026/02/12 23:05:08 [error] 4352#95: *519 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:05:17 [crit] 3317#85: SSL_do_handshake() failed
+2026/02/12 23:05:20 [notice] 5480#36: *814 client intended to send too large body
+2026/02/12 23:05:22 [warn] 1838#12: *437 no live upstreams while connecting to upstream
+2026/02/12 23:05:27 [error] 1219#19: access forbidden by rule
+2026/02/12 23:05:28 [error] 4843#45: *753 client intended to send too large body
+2026/02/12 23:05:29 [info] 4395#85: recv() failed (104: Connection reset by peer)
+2026/02/12 23:05:32 [warn] 9118#16: *975 SSL_do_handshake() failed
+2026/02/12 23:05:34 [warn] 1301#76: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:05:40 [crit] 6279#0: *848 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:05:49 [info] 1950#86: *871 no live upstreams while connecting to upstream
+2026/02/12 23:05:52 [notice] 5526#59: *419 recv() failed (104: Connection reset by peer)
+2026/02/12 23:05:54 [warn] 2970#88: *283 access forbidden by rule
+2026/02/12 23:05:55 [info] 6261#83: *625 SSL_do_handshake() failed
+2026/02/12 23:06:03 [error] 9293#1: *718 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:06:06 [crit] 1543#73: *710 client intended to send too large body
+2026/02/12 23:06:15 [error] 7113#69: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:06:16 [info] 3348#2: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:06:26 [notice] 6179#0: *980 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:06:29 [warn] 7329#33: *710 recv() failed (104: Connection reset by peer)
+2026/02/12 23:06:35 [crit] 8132#34: *697 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:06:36 [crit] 9736#89: *819 recv() failed (104: Connection reset by peer)
+2026/02/12 23:06:41 [crit] 4040#12: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:06:42 [error] 8730#94: *903 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:06:46 [info] 6544#8: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:06:47 [notice] 4589#8: SSL_do_handshake() failed
+2026/02/12 23:06:49 [notice] 4727#33: *234 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:06:50 [error] 4322#68: *679 access forbidden by rule
+2026/02/12 23:06:53 [notice] 2623#52: *519 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:06:54 [info] 9649#5: *751 access forbidden by rule
+2026/02/12 23:07:21 [notice] 1686#93: *819 SSL_do_handshake() failed
+2026/02/12 23:07:26 [notice] 3084#6: *331 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:07:31 [info] 2744#97: access forbidden by rule
+2026/02/12 23:07:41 [error] 7927#42: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:07:42 [warn] 8812#32: *973 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:07:44 [notice] 4467#72: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:07:49 [notice] 2557#97: client intended to send too large body
+2026/02/12 23:07:52 [warn] 7422#54: *748 SSL_do_handshake() failed
+2026/02/12 23:07:56 [error] 1212#60: *441 no live upstreams while connecting to upstream
+2026/02/12 23:07:58 [warn] 7543#61: *473 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:08:00 [crit] 9520#1: *928 SSL_do_handshake() failed
+2026/02/12 23:08:09 [info] 7436#24: *215 client intended to send too large body
+2026/02/12 23:08:12 [warn] 3903#61: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:08:15 [info] 3632#67: *620 no live upstreams while connecting to upstream
+2026/02/12 23:08:17 [warn] 3771#81: *503 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:08:19 [info] 7995#91: recv() failed (104: Connection reset by peer)
+2026/02/12 23:08:20 [crit] 4743#70: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:08:22 [info] 1838#82: *134 no live upstreams while connecting to upstream
+2026/02/12 23:08:40 [info] 9915#49: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:08:43 [crit] 6775#53: no live upstreams while connecting to upstream
+2026/02/12 23:08:47 [crit] 3464#1: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:08:52 [crit] 7822#57: *856 access forbidden by rule
+2026/02/12 23:08:54 [warn] 1151#74: *195 no live upstreams while connecting to upstream
+2026/02/12 23:08:59 [error] 3722#20: access forbidden by rule
+2026/02/12 23:09:18 [info] 4866#15: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:09:22 [crit] 7909#89: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:09:33 [info] 6836#20: *767 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:09:35 [info] 8911#45: no live upstreams while connecting to upstream
+2026/02/12 23:09:37 [error] 9817#88: *595 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:09:39 [info] 1954#91: *381 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:09:45 [crit] 3572#67: *434 SSL_do_handshake() failed
+2026/02/12 23:09:52 [info] 2665#26: *687 SSL_do_handshake() failed
+2026/02/12 23:09:57 [error] 9699#23: *448 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:09:59 [crit] 3361#90: *267 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:10:05 [notice] 4397#65: *521 access forbidden by rule
+2026/02/12 23:10:06 [crit] 5549#32: *636 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:10:08 [info] 5301#90: *538 access forbidden by rule
+2026/02/12 23:10:09 [notice] 1265#51: *441 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:10:10 [warn] 6314#54: *730 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:10:21 [notice] 5610#21: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:10:22 [info] 2336#48: *628 SSL_do_handshake() failed
+2026/02/12 23:10:26 [warn] 2040#3: SSL_do_handshake() failed
+2026/02/12 23:10:27 [info] 6383#80: *427 no live upstreams while connecting to upstream
+2026/02/12 23:10:34 [error] 2446#15: *787 client intended to send too large body
+2026/02/12 23:10:39 [error] 6882#90: access forbidden by rule
+2026/02/12 23:10:50 [error] 5958#26: access forbidden by rule
+2026/02/12 23:10:53 [crit] 2023#30: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:11:06 [notice] 2121#21: *433 client intended to send too large body
+2026/02/12 23:11:07 [error] 4149#95: no live upstreams while connecting to upstream
+2026/02/12 23:11:16 [info] 2655#56: *614 no live upstreams while connecting to upstream
+2026/02/12 23:11:20 [notice] 6617#78: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:11:25 [notice] 6636#48: *230 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:11:33 [info] 8244#41: *517 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:11:37 [notice] 7086#18: *278 SSL_do_handshake() failed
+2026/02/12 23:11:40 [info] 8900#71: *700 recv() failed (104: Connection reset by peer)
+2026/02/12 23:11:49 [notice] 9470#13: *843 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:11:54 [info] 4707#24: *717 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:11:57 [error] 4156#69: *885 access forbidden by rule
+2026/02/12 23:12:01 [error] 2870#64: *500 client intended to send too large body
+2026/02/12 23:12:03 [crit] 4776#70: recv() failed (104: Connection reset by peer)
+2026/02/12 23:12:05 [warn] 7958#40: access forbidden by rule
+2026/02/12 23:12:07 [crit] 6408#85: *871 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:12:09 [warn] 7557#84: *626 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:12:12 [crit] 8333#87: *863 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:12:14 [crit] 7798#4: *575 no live upstreams while connecting to upstream
+2026/02/12 23:12:17 [info] 4758#92: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:12:21 [info] 5420#51: *140 recv() failed (104: Connection reset by peer)
+2026/02/12 23:12:23 [crit] 9494#48: *240 client intended to send too large body
+2026/02/12 23:12:33 [error] 3597#51: *948 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:12:35 [info] 4712#60: *166 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:12:39 [warn] 5742#61: *248 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:12:50 [warn] 2007#73: *886 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:13:08 [notice] 2333#16: *954 SSL_do_handshake() failed
+2026/02/12 23:13:11 [notice] 8779#29: *647 no live upstreams while connecting to upstream
+2026/02/12 23:13:14 [notice] 4767#39: *111 SSL_do_handshake() failed
+2026/02/12 23:13:19 [error] 7023#75: *123 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:13:23 [info] 8660#99: *771 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:13:27 [notice] 3057#16: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:13:32 [crit] 1529#11: *519 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:13:47 [notice] 8264#40: *301 client intended to send too large body
+2026/02/12 23:13:52 [info] 2071#24: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:13:56 [error] 5208#85: *499 access forbidden by rule
+2026/02/12 23:14:02 [crit] 6776#85: *456 recv() failed (104: Connection reset by peer)
+2026/02/12 23:14:04 [info] 8746#31: *114 client intended to send too large body
+2026/02/12 23:14:08 [warn] 3790#72: *377 recv() failed (104: Connection reset by peer)
+2026/02/12 23:14:15 [notice] 8916#4: *918 client intended to send too large body
+2026/02/12 23:14:21 [warn] 5473#56: *236 no live upstreams while connecting to upstream
+2026/02/12 23:14:23 [notice] 8353#18: *337 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:14:24 [warn] 5090#62: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:14:27 [error] 9520#88: no live upstreams while connecting to upstream
+2026/02/12 23:14:30 [warn] 2950#4: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:14:33 [error] 7800#62: *984 no live upstreams while connecting to upstream
+2026/02/12 23:14:42 [info] 2260#40: access forbidden by rule
+2026/02/12 23:14:49 [crit] 9183#61: *968 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:14:52 [notice] 2391#1: *116 no live upstreams while connecting to upstream
+2026/02/12 23:14:55 [notice] 9103#39: *106 recv() failed (104: Connection reset by peer)
+2026/02/12 23:15:00 [warn] 7811#53: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:15:03 [crit] 1911#35: no live upstreams while connecting to upstream
+2026/02/12 23:15:07 [info] 9900#37: recv() failed (104: Connection reset by peer)
+2026/02/12 23:15:11 [info] 8614#0: *851 client intended to send too large body
+2026/02/12 23:15:13 [crit] 1703#7: *595 access forbidden by rule
+2026/02/12 23:15:14 [warn] 5867#2: *697 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:15:16 [warn] 3957#91: access forbidden by rule
+2026/02/12 23:15:20 [warn] 6005#63: *298 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:15:32 [notice] 1581#2: *359 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:15:37 [crit] 9809#43: *813 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:15:40 [info] 7727#22: no live upstreams while connecting to upstream
+2026/02/12 23:15:44 [crit] 1922#77: SSL_do_handshake() failed
+2026/02/12 23:15:54 [crit] 1638#7: *659 client intended to send too large body
+2026/02/12 23:15:58 [crit] 9319#10: *489 SSL_do_handshake() failed
+2026/02/12 23:16:33 [warn] 6577#40: *791 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:16:37 [error] 4089#67: *794 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:16:50 [warn] 7703#90: *432 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:16:52 [info] 6532#37: access forbidden by rule
+2026/02/12 23:16:54 [error] 5821#20: *208 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:16:57 [info] 8460#15: *549 SSL_do_handshake() failed
+2026/02/12 23:17:08 [crit] 1800#4: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:17:15 [error] 4457#71: *490 SSL_do_handshake() failed
+2026/02/12 23:17:20 [notice] 6256#54: *438 no live upstreams while connecting to upstream
+2026/02/12 23:17:21 [warn] 8449#75: *724 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:17:25 [crit] 5690#41: *420 no live upstreams while connecting to upstream
+2026/02/12 23:17:27 [info] 3785#83: *118 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:17:29 [warn] 5898#78: *208 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:17:30 [crit] 3450#49: *805 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:17:39 [info] 3769#82: *202 SSL_do_handshake() failed
+2026/02/12 23:17:50 [info] 6577#64: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:17:52 [error] 8439#19: *591 SSL_do_handshake() failed
+2026/02/12 23:18:00 [error] 7825#54: *276 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:18:10 [notice] 1275#30: *297 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:18:11 [info] 4096#21: *955 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:18:14 [crit] 4153#7: *700 access forbidden by rule
+2026/02/12 23:18:21 [warn] 8047#32: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:18:25 [crit] 9294#26: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:18:26 [error] 5908#86: *264 no live upstreams while connecting to upstream
+2026/02/12 23:18:30 [notice] 8818#88: *516 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:18:39 [warn] 8243#75: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:18:46 [error] 6977#41: *450 access forbidden by rule
+2026/02/12 23:18:47 [warn] 4291#78: *773 SSL_do_handshake() failed
+2026/02/12 23:19:01 [info] 2791#61: *554 recv() failed (104: Connection reset by peer)
+2026/02/12 23:19:02 [warn] 9784#29: recv() failed (104: Connection reset by peer)
+2026/02/12 23:19:06 [crit] 6868#68: *887 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:19:10 [notice] 7732#61: recv() failed (104: Connection reset by peer)
+2026/02/12 23:19:15 [warn] 5237#21: *254 access forbidden by rule
+2026/02/12 23:19:21 [warn] 1384#83: *759 client intended to send too large body
+2026/02/12 23:19:23 [info] 7766#15: *143 recv() failed (104: Connection reset by peer)
+2026/02/12 23:19:29 [info] 9659#67: *135 client intended to send too large body
+2026/02/12 23:19:30 [notice] 3211#57: access forbidden by rule
+2026/02/12 23:19:31 [error] 7315#12: *500 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:19:33 [notice] 9406#84: *775 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:19:35 [error] 8066#94: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:19:38 [info] 3001#47: *114 client intended to send too large body
+2026/02/12 23:19:40 [crit] 7893#29: *689 recv() failed (104: Connection reset by peer)
+2026/02/12 23:19:42 [info] 7300#31: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:19:45 [warn] 1661#19: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:20:14 [notice] 7707#0: *906 access forbidden by rule
+2026/02/12 23:20:16 [notice] 4398#90: access forbidden by rule
+2026/02/12 23:20:20 [info] 3733#15: *518 recv() failed (104: Connection reset by peer)
+2026/02/12 23:20:23 [info] 6453#48: *368 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:20:24 [error] 8185#31: SSL_do_handshake() failed
+2026/02/12 23:20:56 [notice] 5906#95: access forbidden by rule
+2026/02/12 23:20:58 [crit] 6006#75: client intended to send too large body
+2026/02/12 23:21:03 [notice] 2152#27: *276 client intended to send too large body
+2026/02/12 23:21:12 [warn] 5606#16: *603 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:21:14 [warn] 7055#58: access forbidden by rule
+2026/02/12 23:21:20 [warn] 1486#80: *399 recv() failed (104: Connection reset by peer)
+2026/02/12 23:21:22 [crit] 8767#42: *582 SSL_do_handshake() failed
+2026/02/12 23:21:24 [error] 1361#31: *851 client intended to send too large body
+2026/02/12 23:21:27 [notice] 3348#93: *514 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:21:36 [info] 9678#5: *628 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:21:50 [error] 1712#73: *234 access forbidden by rule
+2026/02/12 23:21:55 [notice] 3243#33: *300 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:22:09 [error] 4113#95: *137 client intended to send too large body
+2026/02/12 23:22:10 [crit] 3495#99: *982 no live upstreams while connecting to upstream
+2026/02/12 23:22:13 [notice] 8730#73: no live upstreams while connecting to upstream
+2026/02/12 23:22:16 [warn] 5820#55: *911 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:22:23 [error] 3258#51: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:22:27 [notice] 9170#19: *778 SSL_do_handshake() failed
+2026/02/12 23:22:30 [warn] 7697#9: access forbidden by rule
+2026/02/12 23:22:39 [error] 4346#69: *875 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:22:43 [info] 6675#2: client intended to send too large body
+2026/02/12 23:22:50 [crit] 5695#31: *292 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:22:58 [warn] 2409#43: *119 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:22:59 [notice] 9473#13: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:23:09 [crit] 5582#21: *613 access forbidden by rule
+2026/02/12 23:23:15 [info] 8176#23: *596 client intended to send too large body
+2026/02/12 23:23:29 [info] 8170#87: *456 no live upstreams while connecting to upstream
+2026/02/12 23:23:31 [warn] 4640#45: *556 client intended to send too large body
+2026/02/12 23:23:32 [notice] 3773#19: *873 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:23:33 [warn] 7352#9: *587 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:23:39 [crit] 4776#60: client intended to send too large body
+2026/02/12 23:23:44 [notice] 2773#54: *210 recv() failed (104: Connection reset by peer)
+2026/02/12 23:23:45 [info] 5613#68: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:23:51 [error] 5152#39: *442 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:23:55 [info] 6057#90: recv() failed (104: Connection reset by peer)
+2026/02/12 23:24:21 [crit] 6855#59: *273 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:24:29 [info] 5145#46: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:24:32 [error] 8816#25: SSL_do_handshake() failed
+2026/02/12 23:24:36 [warn] 5054#31: *109 access forbidden by rule
+2026/02/12 23:24:37 [notice] 4407#73: client intended to send too large body
+2026/02/12 23:24:45 [warn] 5652#89: *212 no live upstreams while connecting to upstream
+2026/02/12 23:24:50 [notice] 2145#72: *183 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:24:52 [notice] 2613#79: *214 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:24:56 [warn] 3220#93: *664 no live upstreams while connecting to upstream
+2026/02/12 23:27:53 [error] 8448#38: *619 SSL_do_handshake() failed
+2026/02/12 23:28:01 [warn] 8911#42: *781 recv() failed (104: Connection reset by peer)
+2026/02/12 23:28:03 [error] 2456#44: recv() failed (104: Connection reset by peer)
+2026/02/12 23:28:11 [warn] 7274#70: *104 access forbidden by rule
+2026/02/12 23:28:14 [crit] 9540#51: *957 recv() failed (104: Connection reset by peer)
+2026/02/12 23:28:17 [warn] 3682#8: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:28:26 [crit] 3591#3: *724 recv() failed (104: Connection reset by peer)
+2026/02/12 23:28:28 [warn] 7779#93: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:28:32 [error] 9306#82: SSL_do_handshake() failed
+2026/02/12 23:28:35 [error] 7344#25: *870 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:28:42 [info] 5976#11: *775 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:28:45 [crit] 8190#31: *889 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:28:47 [notice] 6733#47: *943 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:28:48 [crit] 3745#40: *446 recv() failed (104: Connection reset by peer)
+2026/02/12 23:29:18 [warn] 3669#51: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:29:23 [crit] 1047#40: *380 client intended to send too large body
+2026/02/12 23:29:24 [error] 7354#51: *660 SSL_do_handshake() failed
+2026/02/12 23:29:28 [notice] 3085#31: *173 access forbidden by rule
+2026/02/12 23:29:29 [warn] 5765#96: no live upstreams while connecting to upstream
+2026/02/12 23:29:30 [crit] 7893#77: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:29:38 [error] 6239#70: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:29:40 [notice] 1095#92: *771 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:29:45 [error] 2764#49: *646 access forbidden by rule
+2026/02/12 23:30:02 [warn] 6737#13: *401 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:30:03 [notice] 5196#14: *956 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:30:09 [info] 2937#66: no live upstreams while connecting to upstream
+2026/02/12 23:30:11 [error] 7075#23: client intended to send too large body
+2026/02/12 23:30:15 [crit] 4624#11: recv() failed (104: Connection reset by peer)
+2026/02/12 23:30:21 [warn] 4244#95: *454 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:30:26 [warn] 2581#37: *325 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:30:30 [warn] 2109#50: *597 SSL_do_handshake() failed
+2026/02/12 23:30:33 [crit] 9696#2: *142 recv() failed (104: Connection reset by peer)
+2026/02/12 23:30:46 [notice] 8059#51: *822 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:30:47 [error] 1477#20: SSL_do_handshake() failed
+2026/02/12 23:30:50 [crit] 7002#79: *319 client intended to send too large body
+2026/02/12 23:31:00 [notice] 7466#19: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:31:02 [warn] 2185#40: access forbidden by rule
+2026/02/12 23:31:03 [warn] 9816#8: *811 access forbidden by rule
+2026/02/12 23:31:07 [warn] 1220#49: client intended to send too large body
+2026/02/12 23:31:09 [error] 9440#45: *784 access forbidden by rule
+2026/02/12 23:31:10 [warn] 9048#61: *245 access forbidden by rule
+2026/02/12 23:31:11 [crit] 2255#53: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:31:23 [crit] 6989#63: no live upstreams while connecting to upstream
+2026/02/12 23:31:27 [info] 7071#51: *184 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:31:33 [info] 1184#86: *562 client intended to send too large body
+2026/02/12 23:31:42 [notice] 9634#59: *908 recv() failed (104: Connection reset by peer)
+2026/02/12 23:31:43 [crit] 7889#85: *287 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:31:51 [info] 3806#19: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:31:58 [crit] 8242#41: *848 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:32:00 [warn] 4336#59: SSL_do_handshake() failed
+2026/02/12 23:32:01 [error] 2106#5: *984 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:32:06 [warn] 3680#77: *789 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:32:16 [crit] 4363#12: *145 no live upstreams while connecting to upstream
+2026/02/12 23:32:19 [error] 4834#33: no live upstreams while connecting to upstream
+2026/02/12 23:32:22 [error] 5596#46: *212 client intended to send too large body
+2026/02/12 23:32:29 [crit] 3641#37: *217 no live upstreams while connecting to upstream
+2026/02/12 23:32:36 [notice] 6548#56: *179 client intended to send too large body
+2026/02/12 23:32:40 [info] 5265#2: *647 access forbidden by rule
+2026/02/12 23:32:42 [warn] 2796#55: recv() failed (104: Connection reset by peer)
+2026/02/12 23:32:43 [notice] 9597#98: *252 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:32:45 [notice] 6683#89: *273 recv() failed (104: Connection reset by peer)
+2026/02/12 23:32:47 [notice] 6647#19: *246 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:32:49 [warn] 4570#66: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:32:51 [warn] 1023#52: *989 no live upstreams while connecting to upstream
+2026/02/12 23:33:00 [warn] 8264#65: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:33:01 [notice] 1668#67: *946 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:33:10 [warn] 8298#8: *469 recv() failed (104: Connection reset by peer)
+2026/02/12 23:33:11 [error] 7247#63: *136 recv() failed (104: Connection reset by peer)
+2026/02/12 23:33:12 [crit] 4192#71: *481 client intended to send too large body
+2026/02/12 23:33:30 [notice] 1128#52: *203 access forbidden by rule
+2026/02/12 23:33:46 [warn] 3610#62: *453 client intended to send too large body
+2026/02/12 23:33:52 [error] 6964#32: *189 recv() failed (104: Connection reset by peer)
+2026/02/12 23:33:54 [error] 1627#34: *880 SSL_do_handshake() failed
+2026/02/12 23:33:55 [info] 8849#7: *268 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:33:56 [error] 6147#60: recv() failed (104: Connection reset by peer)
+2026/02/12 23:34:00 [crit] 3771#24: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:34:15 [crit] 1905#70: no live upstreams while connecting to upstream
+2026/02/12 23:34:27 [info] 5620#76: *671 client intended to send too large body
+2026/02/12 23:34:35 [crit] 1023#92: *118 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/12 23:34:39 [info] 8495#41: *514 SSL_do_handshake() failed
+2026/02/12 23:34:40 [notice] 3306#66: *324 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:34:44 [error] 7838#61: *938 SSL_do_handshake() failed
+2026/02/12 23:34:46 [info] 9168#47: *506 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:34:54 [warn] 3379#46: *170 client intended to send too large body
+2026/02/12 23:35:02 [error] 9497#38: *441 SSL_do_handshake() failed
+2026/02/12 23:35:03 [crit] 5761#18: *180 no live upstreams while connecting to upstream
+2026/02/12 23:35:07 [crit] 4259#65: client intended to send too large body
+2026/02/12 23:35:09 [crit] 6780#64: SSL_do_handshake() failed
+2026/02/12 23:35:39 [warn] 6409#50: *792 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:35:40 [info] 4276#5: SSL_do_handshake() failed
+2026/02/12 23:35:59 [info] 8433#67: *397 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/12 23:36:01 [warn] 8321#46: no live upstreams while connecting to upstream
+2026/02/12 23:36:03 [crit] 6735#52: *131 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:36:05 [notice] 8313#76: *858 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/12 23:36:06 [notice] 1219#9: *758 recv() failed (104: Connection reset by peer)
+2026/02/12 23:36:11 [warn] 4283#89: *652 client intended to send too large body
+2026/02/12 23:36:15 [info] 6718#5: *230 client intended to send too large body
+2026/02/12 23:36:22 [warn] 6586#42: *615 client intended to send too large body
+2026/02/12 23:58:21 [warn] 9869#31: *771 SSL_do_handshake() failed
+2026/02/12 23:58:29 [error] 6432#79: no live upstreams while connecting to upstream
+2026/02/12 23:58:35 [crit] 1692#40: *355 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:06:02 [error] 5170#4: *567 access forbidden by rule
+2026/02/13 00:06:06 [error] 3361#39: *688 recv() failed (104: Connection reset by peer)
+2026/02/13 00:06:16 [notice] 5553#49: SSL_do_handshake() failed
+2026/02/13 00:06:17 [crit] 8574#82: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:06:20 [notice] 1795#93: access forbidden by rule
+2026/02/13 00:06:28 [crit] 8185#99: *425 recv() failed (104: Connection reset by peer)
+2026/02/13 00:06:39 [error] 7869#84: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:06:41 [info] 5254#36: *462 recv() failed (104: Connection reset by peer)
+2026/02/13 00:07:13 [notice] 4845#65: recv() failed (104: Connection reset by peer)
+2026/02/13 00:07:14 [crit] 9458#95: *271 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:07:17 [error] 6978#45: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:07:26 [error] 9482#10: *461 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:07:32 [warn] 2323#60: no live upstreams while connecting to upstream
+2026/02/13 00:07:36 [error] 8739#76: *787 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:07:39 [notice] 2459#53: *158 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:08:07 [info] 2036#0: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:08:12 [notice] 5717#17: *911 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:08:14 [notice] 6144#29: *394 SSL_do_handshake() failed
+2026/02/13 00:08:22 [warn] 9973#80: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 00:08:23 [warn] 8809#3: *817 access forbidden by rule
+2026/02/13 00:08:27 [warn] 6149#12: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:08:35 [warn] 4788#72: *282 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:08:49 [crit] 1761#4: *251 client intended to send too large body
+2026/02/13 00:08:54 [warn] 3652#4: *432 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:10:23 [crit] 7635#96: client intended to send too large body
+2026/02/13 00:10:30 [notice] 1721#77: *872 recv() failed (104: Connection reset by peer)
+2026/02/13 00:10:34 [crit] 6544#79: *115 client intended to send too large body
+2026/02/13 00:10:36 [warn] 1566#34: *988 SSL_do_handshake() failed
+2026/02/13 00:10:37 [warn] 4486#14: *203 SSL_do_handshake() failed
+2026/02/13 00:10:50 [info] 6562#98: *986 SSL_do_handshake() failed
+2026/02/13 00:10:51 [notice] 1934#6: *215 access forbidden by rule
+2026/02/13 00:10:56 [warn] 4819#63: *709 no live upstreams while connecting to upstream
+2026/02/13 00:11:05 [info] 9885#23: recv() failed (104: Connection reset by peer)
+2026/02/13 00:11:06 [warn] 8951#64: no live upstreams while connecting to upstream
+2026/02/13 00:11:18 [error] 4876#45: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:11:19 [error] 1263#36: *206 access forbidden by rule
+2026/02/13 00:11:33 [crit] 6516#14: recv() failed (104: Connection reset by peer)
+2026/02/13 00:11:34 [crit] 7131#90: recv() failed (104: Connection reset by peer)
+2026/02/13 00:11:40 [info] 8319#19: *856 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:11:45 [crit] 9622#99: *471 access forbidden by rule
+2026/02/13 00:15:26 [notice] 9524#10: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:15:29 [error] 3980#45: *813 client intended to send too large body
+2026/02/13 00:15:30 [info] 8364#49: *165 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:15:33 [warn] 3194#29: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 00:15:34 [crit] 5017#39: access forbidden by rule
+2026/02/13 00:15:42 [notice] 2866#72: recv() failed (104: Connection reset by peer)
+2026/02/13 00:15:52 [error] 6294#55: *325 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:16:03 [info] 4019#98: no live upstreams while connecting to upstream
+2026/02/13 00:16:06 [crit] 4334#52: *899 no live upstreams while connecting to upstream
+2026/02/13 00:16:12 [warn] 8722#45: SSL_do_handshake() failed
+2026/02/13 00:16:17 [warn] 9150#62: no live upstreams while connecting to upstream
+2026/02/13 00:16:19 [error] 9263#41: *710 access forbidden by rule
+2026/02/13 00:30:16 [crit] 2475#21: *829 client intended to send too large body
+2026/02/13 00:34:57 [warn] 4666#35: *674 access forbidden by rule
+2026/02/13 00:35:00 [notice] 8170#87: access forbidden by rule
+2026/02/13 00:35:01 [notice] 7927#23: *229 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:35:02 [crit] 3693#54: *597 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 00:35:09 [warn] 9369#14: *586 client intended to send too large body
+2026/02/13 00:35:25 [notice] 4961#63: recv() failed (104: Connection reset by peer)
+2026/02/13 00:35:26 [notice] 9074#54: access forbidden by rule
+2026/02/13 00:35:31 [notice] 5857#35: *989 SSL_do_handshake() failed
+2026/02/13 00:35:32 [crit] 7699#4: *708 no live upstreams while connecting to upstream
+2026/02/13 00:35:35 [warn] 2208#78: *584 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:35:37 [notice] 9346#76: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 00:35:39 [error] 1058#28: *923 no live upstreams while connecting to upstream
+2026/02/13 00:48:35 [warn] 9054#57: client intended to send too large body
+2026/02/13 00:48:40 [info] 3898#17: *798 SSL_do_handshake() failed
+2026/02/13 00:48:44 [error] 9323#91: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:48:50 [warn] 4942#10: access forbidden by rule
+2026/02/13 00:48:51 [warn] 8665#87: *822 SSL_do_handshake() failed
+2026/02/13 00:48:53 [error] 4784#36: *737 SSL_do_handshake() failed
+2026/02/13 00:48:54 [crit] 1811#58: *160 recv() failed (104: Connection reset by peer)
+2026/02/13 00:49:02 [info] 1399#99: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 00:49:05 [crit] 1170#14: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 00:49:15 [info] 6448#92: *713 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:04:32 [notice] 8788#85: *880 client intended to send too large body
+2026/02/13 01:04:33 [crit] 1253#1: *481 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:04:41 [crit] 3902#20: *473 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:04:42 [notice] 8523#11: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:04:44 [crit] 9085#39: *951 access forbidden by rule
+2026/02/13 01:22:06 [crit] 4092#21: client intended to send too large body
+2026/02/13 01:25:50 [crit] 3795#92: *349 access forbidden by rule
+2026/02/13 01:25:52 [info] 2935#95: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:25:54 [notice] 6294#96: no live upstreams while connecting to upstream
+2026/02/13 01:25:57 [warn] 9176#2: *648 SSL_do_handshake() failed
+2026/02/13 01:26:03 [error] 4764#42: *864 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:26:10 [notice] 4242#55: *145 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:26:16 [warn] 1679#47: *299 SSL_do_handshake() failed
+2026/02/13 01:26:18 [crit] 4409#2: *101 client intended to send too large body
+2026/02/13 01:26:19 [notice] 5702#75: *383 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:26:27 [crit] 7059#24: *268 SSL_do_handshake() failed
+2026/02/13 01:26:35 [error] 5431#25: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:26:36 [warn] 6984#94: *343 SSL_do_handshake() failed
+2026/02/13 01:26:39 [warn] 2524#55: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:26:42 [crit] 2849#19: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:26:43 [info] 2741#67: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:26:56 [notice] 5503#64: *520 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:26:57 [notice] 2195#3: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:27:11 [error] 4615#49: *222 recv() failed (104: Connection reset by peer)
+2026/02/13 01:27:17 [error] 5334#91: recv() failed (104: Connection reset by peer)
+2026/02/13 01:27:21 [warn] 8709#70: *130 SSL_do_handshake() failed
+2026/02/13 01:27:24 [error] 1750#86: *664 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:27:29 [warn] 8481#11: client intended to send too large body
+2026/02/13 01:27:31 [notice] 2041#38: client intended to send too large body
+2026/02/13 01:27:34 [notice] 5398#63: *900 recv() failed (104: Connection reset by peer)
+2026/02/13 01:27:37 [error] 8077#48: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:27:38 [notice] 6786#8: client intended to send too large body
+2026/02/13 01:27:41 [error] 1346#74: *932 SSL_do_handshake() failed
+2026/02/13 01:27:42 [info] 5105#64: *757 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:27:49 [crit] 5333#2: *481 SSL_do_handshake() failed
+2026/02/13 01:27:52 [notice] 4981#8: *352 client intended to send too large body
+2026/02/13 01:27:54 [notice] 7515#71: *350 client intended to send too large body
+2026/02/13 01:27:56 [crit] 8795#20: access forbidden by rule
+2026/02/13 01:28:03 [error] 2075#31: *604 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:28:58 [crit] 8999#20: *690 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:29:04 [crit] 4166#27: client intended to send too large body
+2026/02/13 01:29:09 [crit] 9728#22: *631 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:29:16 [crit] 9188#50: *824 recv() failed (104: Connection reset by peer)
+2026/02/13 01:29:18 [error] 5357#79: *741 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:29:20 [notice] 1360#87: *181 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:29:24 [error] 9086#97: *184 client intended to send too large body
+2026/02/13 01:29:25 [warn] 7745#71: *140 recv() failed (104: Connection reset by peer)
+2026/02/13 01:29:26 [warn] 9030#49: *698 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:29:42 [warn] 9428#36: access forbidden by rule
+2026/02/13 01:29:46 [crit] 3972#28: recv() failed (104: Connection reset by peer)
+2026/02/13 01:29:47 [info] 4472#81: *646 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:29:54 [info] 4988#20: *366 access forbidden by rule
+2026/02/13 01:29:56 [warn] 7386#53: *625 recv() failed (104: Connection reset by peer)
+2026/02/13 01:30:05 [warn] 9763#92: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:30:07 [crit] 3636#81: *883 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:30:17 [error] 1187#70: *931 access forbidden by rule
+2026/02/13 01:30:20 [notice] 8192#33: *193 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:30:23 [info] 6968#81: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:30:24 [warn] 8914#95: client intended to send too large body
+2026/02/13 01:30:29 [error] 5804#84: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:30:31 [warn] 9536#29: *670 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:30:38 [error] 7139#68: *558 SSL_do_handshake() failed
+2026/02/13 01:30:44 [warn] 1701#57: *314 no live upstreams while connecting to upstream
+2026/02/13 01:30:50 [crit] 8768#35: *860 recv() failed (104: Connection reset by peer)
+2026/02/13 01:30:52 [error] 1754#42: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:31:01 [warn] 1707#29: *471 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:31:06 [warn] 2622#94: *902 no live upstreams while connecting to upstream
+2026/02/13 01:31:12 [warn] 4026#49: *364 no live upstreams while connecting to upstream
+2026/02/13 01:31:18 [info] 2644#30: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:31:19 [crit] 2779#7: *482 recv() failed (104: Connection reset by peer)
+2026/02/13 01:31:25 [notice] 2864#8: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:31:34 [crit] 8889#19: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:31:45 [notice] 5713#19: *679 access forbidden by rule
+2026/02/13 01:31:59 [notice] 2451#45: *168 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:32:10 [warn] 5731#98: *564 access forbidden by rule
+2026/02/13 01:32:12 [info] 1009#86: *774 access forbidden by rule
+2026/02/13 01:32:19 [info] 8707#5: recv() failed (104: Connection reset by peer)
+2026/02/13 01:32:24 [warn] 4232#80: *532 no live upstreams while connecting to upstream
+2026/02/13 01:32:26 [warn] 3805#90: *131 SSL_do_handshake() failed
+2026/02/13 01:32:27 [crit] 3915#68: *214 SSL_do_handshake() failed
+2026/02/13 01:32:44 [crit] 1378#87: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:33:02 [warn] 4345#96: *521 access forbidden by rule
+2026/02/13 01:33:05 [error] 5115#71: *486 client intended to send too large body
+2026/02/13 01:33:17 [notice] 1379#83: *986 recv() failed (104: Connection reset by peer)
+2026/02/13 01:33:21 [warn] 2415#75: SSL_do_handshake() failed
+2026/02/13 01:33:23 [info] 4397#27: *662 client intended to send too large body
+2026/02/13 01:33:24 [warn] 1242#52: *218 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:33:25 [warn] 1682#78: recv() failed (104: Connection reset by peer)
+2026/02/13 01:33:28 [notice] 2449#25: *928 recv() failed (104: Connection reset by peer)
+2026/02/13 01:33:30 [error] 1486#36: SSL_do_handshake() failed
+2026/02/13 01:33:35 [error] 8337#25: *364 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:33:39 [warn] 2159#6: client intended to send too large body
+2026/02/13 01:33:43 [info] 2586#1: *148 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:33:48 [error] 1611#91: *765 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:33:50 [crit] 8666#81: *786 SSL_do_handshake() failed
+2026/02/13 01:33:52 [crit] 5383#82: *815 SSL_do_handshake() failed
+2026/02/13 01:33:53 [notice] 7478#38: *311 SSL_do_handshake() failed
+2026/02/13 01:33:54 [error] 9869#45: *376 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:34:12 [info] 6583#5: *303 SSL_do_handshake() failed
+2026/02/13 01:34:21 [notice] 6319#20: *386 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:34:24 [error] 8790#84: *376 client intended to send too large body
+2026/02/13 01:34:30 [error] 6803#32: no live upstreams while connecting to upstream
+2026/02/13 01:34:31 [error] 6696#48: *199 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:34:34 [warn] 6370#1: *944 access forbidden by rule
+2026/02/13 01:34:35 [info] 3861#76: *451 no live upstreams while connecting to upstream
+2026/02/13 01:34:45 [crit] 8785#90: *773 client intended to send too large body
+2026/02/13 01:34:46 [notice] 1101#29: *514 client intended to send too large body
+2026/02/13 01:34:51 [crit] 3889#55: *982 no live upstreams while connecting to upstream
+2026/02/13 01:35:04 [crit] 9151#7: *626 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:35:05 [notice] 5321#1: *563 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:35:14 [error] 1012#63: *166 client intended to send too large body
+2026/02/13 01:35:17 [warn] 7652#49: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:35:23 [info] 9146#20: *969 client intended to send too large body
+2026/02/13 01:35:27 [warn] 4673#73: *677 client intended to send too large body
+2026/02/13 01:35:28 [notice] 4171#32: access forbidden by rule
+2026/02/13 01:35:31 [error] 6173#44: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:35:34 [notice] 2764#8: *462 recv() failed (104: Connection reset by peer)
+2026/02/13 01:35:43 [crit] 3136#85: *674 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:35:45 [info] 7589#62: recv() failed (104: Connection reset by peer)
+2026/02/13 01:35:48 [warn] 5096#55: *603 access forbidden by rule
+2026/02/13 01:35:50 [info] 7016#93: *522 no live upstreams while connecting to upstream
+2026/02/13 01:35:51 [crit] 5400#72: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:35:52 [error] 2538#98: no live upstreams while connecting to upstream
+2026/02/13 01:35:54 [error] 6230#72: *460 client intended to send too large body
+2026/02/13 01:36:01 [notice] 7362#16: *151 access forbidden by rule
+2026/02/13 01:36:06 [info] 8551#55: *262 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:36:11 [error] 2699#80: *416 SSL_do_handshake() failed
+2026/02/13 01:36:14 [error] 9737#96: *323 client intended to send too large body
+2026/02/13 01:36:15 [crit] 4350#1: *837 access forbidden by rule
+2026/02/13 01:36:25 [notice] 3540#24: *320 recv() failed (104: Connection reset by peer)
+2026/02/13 01:36:40 [error] 8057#63: *988 client intended to send too large body
+2026/02/13 01:36:48 [error] 1331#88: *680 recv() failed (104: Connection reset by peer)
+2026/02/13 01:37:01 [warn] 8705#27: *630 no live upstreams while connecting to upstream
+2026/02/13 01:37:05 [notice] 8295#37: *591 client intended to send too large body
+2026/02/13 01:37:10 [error] 1759#98: *320 no live upstreams while connecting to upstream
+2026/02/13 01:37:12 [warn] 2423#44: access forbidden by rule
+2026/02/13 01:37:17 [warn] 6752#82: *487 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:37:24 [error] 6229#2: access forbidden by rule
+2026/02/13 01:37:35 [error] 8431#79: client intended to send too large body
+2026/02/13 01:37:41 [notice] 3792#23: *221 no live upstreams while connecting to upstream
+2026/02/13 01:37:51 [error] 7252#34: *930 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:37:59 [notice] 4781#56: *318 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:38:04 [crit] 9982#37: *156 no live upstreams while connecting to upstream
+2026/02/13 01:38:08 [warn] 9897#40: *863 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:38:17 [error] 5173#23: *460 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:38:21 [notice] 3078#11: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:38:24 [warn] 7564#94: *785 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:38:29 [notice] 2975#94: *611 recv() failed (104: Connection reset by peer)
+2026/02/13 01:38:38 [info] 8188#3: *109 SSL_do_handshake() failed
+2026/02/13 01:38:40 [notice] 7131#79: *738 SSL_do_handshake() failed
+2026/02/13 01:38:46 [info] 6834#78: *938 no live upstreams while connecting to upstream
+2026/02/13 01:38:47 [warn] 8061#91: client intended to send too large body
+2026/02/13 01:38:48 [warn] 2820#9: *442 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:38:53 [notice] 8816#58: SSL_do_handshake() failed
+2026/02/13 01:38:55 [info] 9928#52: *648 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:38:58 [warn] 3758#76: *523 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:39:05 [warn] 2847#42: *780 client intended to send too large body
+2026/02/13 01:39:07 [error] 6315#98: *323 no live upstreams while connecting to upstream
+2026/02/13 01:39:13 [error] 9265#34: *636 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:39:19 [warn] 6960#1: *495 access forbidden by rule
+2026/02/13 01:39:24 [warn] 1514#89: *668 no live upstreams while connecting to upstream
+2026/02/13 01:39:27 [notice] 5517#43: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:39:29 [crit] 6071#6: *759 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:39:30 [warn] 1033#87: *496 no live upstreams while connecting to upstream
+2026/02/13 01:39:34 [error] 8826#91: *387 no live upstreams while connecting to upstream
+2026/02/13 01:39:36 [crit] 2540#46: *678 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:39:39 [error] 1099#93: *654 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:39:57 [info] 1558#9: *335 recv() failed (104: Connection reset by peer)
+2026/02/13 01:40:00 [error] 1443#74: *155 recv() failed (104: Connection reset by peer)
+2026/02/13 01:40:01 [notice] 9229#68: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:40:03 [error] 6831#52: *517 recv() failed (104: Connection reset by peer)
+2026/02/13 01:40:10 [error] 7488#19: recv() failed (104: Connection reset by peer)
+2026/02/13 01:40:23 [crit] 2644#93: access forbidden by rule
+2026/02/13 01:40:33 [crit] 3834#84: *591 no live upstreams while connecting to upstream
+2026/02/13 01:40:35 [notice] 7305#31: *915 no live upstreams while connecting to upstream
+2026/02/13 01:40:38 [notice] 8024#50: *331 client intended to send too large body
+2026/02/13 01:40:54 [crit] 8959#87: *756 access forbidden by rule
+2026/02/13 01:40:56 [warn] 4803#36: *805 recv() failed (104: Connection reset by peer)
+2026/02/13 01:40:58 [info] 1915#79: *616 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:41:00 [notice] 3265#78: *373 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:41:01 [notice] 3162#43: *807 access forbidden by rule
+2026/02/13 01:41:12 [crit] 7519#63: SSL_do_handshake() failed
+2026/02/13 01:41:13 [notice] 5493#95: *560 no live upstreams while connecting to upstream
+2026/02/13 01:41:15 [warn] 6318#1: *614 SSL_do_handshake() failed
+2026/02/13 01:41:19 [error] 6063#35: *852 client intended to send too large body
+2026/02/13 01:41:21 [error] 5745#67: *411 no live upstreams while connecting to upstream
+2026/02/13 01:41:22 [warn] 2223#96: *323 client intended to send too large body
+2026/02/13 01:41:23 [error] 4954#81: *700 recv() failed (104: Connection reset by peer)
+2026/02/13 01:41:24 [notice] 2810#46: *444 SSL_do_handshake() failed
+2026/02/13 01:41:28 [notice] 6877#7: *579 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:41:38 [warn] 3727#76: *433 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:41:40 [info] 8231#67: *288 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:41:42 [notice] 9399#23: *606 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:41:44 [info] 7388#23: access forbidden by rule
+2026/02/13 01:41:47 [warn] 1646#36: *572 client intended to send too large body
+2026/02/13 01:41:50 [info] 8857#82: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:41:58 [notice] 6151#59: *258 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:42:10 [error] 5763#6: *667 access forbidden by rule
+2026/02/13 01:42:12 [warn] 7502#92: access forbidden by rule
+2026/02/13 01:42:13 [info] 3212#3: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:42:19 [crit] 6018#42: *678 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:42:23 [notice] 1084#30: *640 client intended to send too large body
+2026/02/13 01:42:29 [crit] 5506#46: *942 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:42:34 [error] 8027#60: *372 access forbidden by rule
+2026/02/13 01:42:48 [crit] 9300#41: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:43:04 [notice] 9427#14: recv() failed (104: Connection reset by peer)
+2026/02/13 01:43:06 [info] 2915#71: *593 recv() failed (104: Connection reset by peer)
+2026/02/13 01:43:10 [notice] 9881#17: *871 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:43:13 [warn] 4362#46: recv() failed (104: Connection reset by peer)
+2026/02/13 01:43:17 [notice] 6598#81: *698 client intended to send too large body
+2026/02/13 01:43:20 [error] 7458#68: *574 access forbidden by rule
+2026/02/13 01:43:24 [warn] 5954#95: *356 SSL_do_handshake() failed
+2026/02/13 01:43:32 [notice] 3991#14: *228 SSL_do_handshake() failed
+2026/02/13 01:43:34 [warn] 5459#93: *872 no live upstreams while connecting to upstream
+2026/02/13 01:43:36 [crit] 4339#82: *868 recv() failed (104: Connection reset by peer)
+2026/02/13 01:43:38 [notice] 2946#35: *367 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:43:44 [notice] 3615#54: no live upstreams while connecting to upstream
+2026/02/13 01:44:05 [warn] 7310#19: *944 access forbidden by rule
+2026/02/13 01:44:12 [notice] 4749#19: SSL_do_handshake() failed
+2026/02/13 01:44:20 [notice] 4772#82: *523 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:44:26 [info] 9961#62: *239 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:44:29 [crit] 9960#16: *321 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:44:30 [info] 3083#68: *897 access forbidden by rule
+2026/02/13 01:44:38 [crit] 4041#45: SSL_do_handshake() failed
+2026/02/13 01:44:41 [warn] 2975#6: *113 no live upstreams while connecting to upstream
+2026/02/13 01:44:46 [notice] 3983#5: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:44:55 [warn] 7248#64: *851 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:44:58 [warn] 3251#62: *750 SSL_do_handshake() failed
+2026/02/13 01:45:00 [crit] 4350#18: *882 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:45:01 [crit] 9302#71: *202 SSL_do_handshake() failed
+2026/02/13 01:45:03 [crit] 3481#49: no live upstreams while connecting to upstream
+2026/02/13 01:45:08 [info] 5990#6: no live upstreams while connecting to upstream
+2026/02/13 01:45:11 [info] 9162#82: *354 no live upstreams while connecting to upstream
+2026/02/13 01:45:23 [notice] 1048#25: SSL_do_handshake() failed
+2026/02/13 01:45:25 [crit] 9657#81: *613 recv() failed (104: Connection reset by peer)
+2026/02/13 01:45:27 [notice] 5250#83: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:45:31 [crit] 1796#44: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:45:32 [crit] 2789#58: *604 access forbidden by rule
+2026/02/13 01:45:41 [warn] 9929#36: client intended to send too large body
+2026/02/13 01:45:48 [info] 1877#19: *191 access forbidden by rule
+2026/02/13 01:45:49 [crit] 5493#11: *944 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:45:52 [notice] 2378#51: recv() failed (104: Connection reset by peer)
+2026/02/13 01:45:56 [error] 7212#47: *938 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:46:00 [crit] 4189#11: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:46:01 [info] 2167#16: *100 no live upstreams while connecting to upstream
+2026/02/13 01:46:02 [crit] 5033#38: *453 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:46:13 [notice] 6481#59: *520 recv() failed (104: Connection reset by peer)
+2026/02/13 01:46:14 [crit] 7030#98: *305 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:46:16 [crit] 9671#43: *204 recv() failed (104: Connection reset by peer)
+2026/02/13 01:46:19 [crit] 4895#62: connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:46:22 [warn] 7830#92: *401 recv() failed (104: Connection reset by peer)
+2026/02/13 01:46:25 [error] 3245#20: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:46:31 [info] 3641#75: *377 no live upstreams while connecting to upstream
+2026/02/13 01:46:32 [crit] 3426#24: recv() failed (104: Connection reset by peer)
+2026/02/13 01:46:36 [notice] 5387#43: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:46:54 [crit] 4848#52: *820 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:47:10 [warn] 3837#20: *853 SSL_do_handshake() failed
+2026/02/13 01:47:11 [notice] 8895#64: *509 no live upstreams while connecting to upstream
+2026/02/13 01:47:12 [notice] 6340#43: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:47:14 [warn] 4086#94: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:47:23 [notice] 8476#18: *758 access forbidden by rule
+2026/02/13 01:47:47 [error] 6114#64: recv() failed (104: Connection reset by peer)
+2026/02/13 01:47:49 [warn] 9943#69: client intended to send too large body
+2026/02/13 01:47:50 [info] 7975#89: *376 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:47:52 [error] 6369#16: *194 access forbidden by rule
+2026/02/13 01:48:00 [notice] 4467#73: *827 access forbidden by rule
+2026/02/13 01:48:02 [warn] 9090#67: *757 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:48:31 [crit] 4296#66: access forbidden by rule
+2026/02/13 01:48:38 [info] 9144#50: client intended to send too large body
+2026/02/13 01:48:40 [notice] 1086#34: *320 recv() failed (104: Connection reset by peer)
+2026/02/13 01:48:51 [notice] 7660#56: upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:48:56 [info] 7735#4: *891 SSL_do_handshake() failed
+2026/02/13 01:49:02 [warn] 4206#94: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:49:06 [info] 3969#53: *307 SSL_do_handshake() failed
+2026/02/13 01:49:09 [crit] 3253#81: *348 SSL_do_handshake() failed
+2026/02/13 01:49:11 [crit] 8986#61: *741 SSL_do_handshake() failed
+2026/02/13 01:49:17 [info] 1922#80: *220 upstream timed out (110: Connection timed out) while reading response header from upstream
+2026/02/13 01:49:21 [crit] 2141#80: recv() failed (104: Connection reset by peer)
+2026/02/13 01:49:24 [notice] 1759#25: *952 recv() failed (104: Connection reset by peer)
+2026/02/13 01:49:28 [error] 9154#2: *341 access forbidden by rule
+2026/02/13 01:49:38 [notice] 7561#63: *761 client intended to send too large body
+2026/02/13 01:49:39 [error] 2413#13: *658 access forbidden by rule
+2026/02/13 01:49:40 [notice] 1522#15: SSL_do_handshake() failed
+2026/02/13 01:49:43 [crit] 1546#65: client intended to send too large body
+2026/02/13 01:49:46 [crit] 5692#3: open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:49:52 [notice] 9400#79: *623 no live upstreams while connecting to upstream
+2026/02/13 01:49:57 [crit] 7048#34: *675 access forbidden by rule
+2026/02/13 01:50:00 [notice] 8836#77: *921 client intended to send too large body
+2026/02/13 01:50:01 [info] 5971#37: recv() failed (104: Connection reset by peer)
+2026/02/13 01:50:04 [info] 6288#20: *461 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:50:26 [crit] 9545#93: *994 access forbidden by rule
+2026/02/13 01:50:27 [info] 7219#67: *390 access forbidden by rule
+2026/02/13 01:50:34 [error] 1979#3: *713 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:50:44 [warn] 4932#85: *986 client intended to send too large body
+2026/02/13 01:50:56 [info] 8273#63: *999 SSL_do_handshake() failed
+2026/02/13 01:51:01 [error] 7523#9: *217 recv() failed (104: Connection reset by peer)
+2026/02/13 01:51:05 [notice] 7819#66: *854 no live upstreams while connecting to upstream
+2026/02/13 01:51:07 [warn] 6478#92: *892 access forbidden by rule
+2026/02/13 01:51:09 [error] 8414#50: *600 SSL_do_handshake() failed
+2026/02/13 01:51:21 [crit] 6654#0: recv() failed (104: Connection reset by peer)
+2026/02/13 01:51:26 [crit] 9174#68: *674 recv() failed (104: Connection reset by peer)
+2026/02/13 01:51:28 [crit] 6193#91: client intended to send too large body
+2026/02/13 01:51:32 [warn] 3477#81: *580 open() "/var/www/html/favicon.ico" failed (2: No such file or directory)
+2026/02/13 01:51:36 [error] 5078#26: *977 recv() failed (104: Connection reset by peer)
+2026/02/13 01:51:37 [info] 2320#99: access forbidden by rule
+2026/02/13 01:51:42 [warn] 4683#22: *748 connect() failed (111: Connection refused) while connecting to upstream
+2026/02/13 01:51:47 [error] 9811#17: no live upstreams while connecting to upstream
+2026/02/13 01:51:52 [error] 1736#79: *836 recv() failed (104: Connection reset by peer)
