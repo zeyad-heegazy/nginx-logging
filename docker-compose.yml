@@ -33,10 +33,10 @@ services:
     ports:
       - "8123:8123"
       - "9000:9000"
-    environment:
-      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
-      CLICKHOUSE_DEFAULT_USER: admin
-      CLICKHOUSE_DEFAULT_PASSWORD: admin123
+    # environment:
+    #   CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
+    #   CLICKHOUSE_DEFAULT_USER: admin
+    #   CLICKHOUSE_DEFAULT_PASSWORD: admin123
     volumes:
       - ./clickhouse/clickhouse-init.sql:/docker-entrypoint-initdb.d/init.sql
       - ./clickhouse/users.xml:/etc/clickhouse-server/users.d/users.xml
