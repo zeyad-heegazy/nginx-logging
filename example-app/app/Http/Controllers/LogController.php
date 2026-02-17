@@ -24,13 +24,29 @@ class LogController extends Controller
             'end_date'
         ]);
 
-        $limit = min((int) $req->get('limit', 100), 500);
-        $offset = (int) $req->get('offset', 0);
+        $limit = (int) $req->input('limit', 100);
+        $offset = (int) $req->input('offset', 0);
+
+        $page = max(1, (int) $req->input('page', 1));
+        $offset = ($page - 1) * $limit;
+
+        $total = $this->service->count($filters);
+        $data = $this->service->getLogs($filters, $limit, $offset);
+
+        $totalPages = (int) ceil($total / $limit);
 
         return response()->json([
             'success' => true,
-            'total' => $this->service->count($filters),
-            'data' => $this->service->getLogs($filters, $limit, $offset)
+            'data' => $data,
+            'meta' => [
+                'total' => $total,
+                'per_page' => $limit,
+                'current_page' => $page,
+                'total_pages' => $totalPages,
+                'from' => $offset + 1,
+                'to' => $offset + count($data),
+                'has_more' => $page < $totalPages,
+            ],
         ]);
     }
 
