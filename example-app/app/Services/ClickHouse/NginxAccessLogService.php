@@ -68,7 +68,7 @@ class NginxAccessLogService
 
         if (!empty($filters['ip'])) {
             $ip = addslashes($filters['ip']);
-            $c[] = "ip = '{$ip}'";
+            $c[] = "remote_addr LIKE '%{$ip}%'";
         }
 
         if (!empty($filters['status'])) {
@@ -77,7 +77,7 @@ class NginxAccessLogService
 
         if (!empty($filters['method'])) {
             $m = strtoupper(addslashes($filters['method']));
-            $c[] = "method = '{$m}'";
+            $c[] = "request LIKE '{$m} %'";
         }
 
         if (!empty($filters['start_date'])) {

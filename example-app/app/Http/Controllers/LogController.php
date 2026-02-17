@@ -24,6 +24,14 @@ class LogController extends Controller
             'end_date'
         ]);
 
+        foreach (['start_date', 'end_date'] as $field) {
+            if (!empty($filters[$field])) {
+                $date = new \DateTime($filters[$field]);
+                $filters[$field] = $date->format('d/M/Y:H:i:s O');
+            }
+        }
+
+
         $limit = (int) $req->input('limit', 100);
         $offset = (int) $req->input('offset', 0);
 
