@@ -29,9 +29,8 @@ services:
       - ./fluentbit/fluent-bit.conf:/fluent-bit/etc/fluent-bit.conf:ro
       - ./fluentbit/parsers.conf:/fluent-bit/etc/parsers.conf:ro
       - ./fluentbit/extract_resource.lua:/fluent-bit/etc/extract_resource.lua:ro
-      - ./logs:/var/log/simulator:ro
       - /var/log/nginx:/var/log/nginx:ro
-      - ./remote-nginx-logs:/var/log/remote-nginx
+      - ./fluentbit/state:/var/log/flb-state
     command:
       ["/fluent-bit/bin/fluent-bit", "-c", "/fluent-bit/etc/fluent-bit.conf"]
     networks:

@@ -3,8 +3,6 @@ CREATE DATABASE IF NOT EXISTS estavo;
 CREATE TABLE IF NOT EXISTS estavo.nginx_logs (
     time_local String,
     remote_addr String,
-    remote_user String,
-    request String,
     request_method String,
     request_uri String,
     resource_type Nullable(String),

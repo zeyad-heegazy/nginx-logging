@@ -50,5 +50,9 @@ function extract_resource(tag, timestamp, record)
         record["resource_id"]   = resource_id and tonumber(resource_id) or nil
     end
 
+    -- Remove fields no longer present in the ClickHouse schema
+    record["request"]     = nil
+    record["remote_user"] = nil
+
     return 2, timestamp, record
 end
