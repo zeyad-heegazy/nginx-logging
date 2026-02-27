@@ -50,6 +50,13 @@ function extract_resource(tag, timestamp, record)
         record["resource_id"]   = resource_id and tonumber(resource_id) or nil
     end
 
+    -- Normalize uid: convert '-' or any non-numeric value to nil (ClickHouse Nullable(UInt32))
+    local uid = record["uid"]
+    if uid ~= nil then
+        local n = tonumber(uid)
+        record["uid"] = n and math.floor(n) or nil
+    end
+
     -- Remove fields no longer present in the ClickHouse schema
     record["request"]     = nil
     record["remote_user"] = nil
