@@ -5,12 +5,17 @@ CREATE TABLE IF NOT EXISTS estavo.nginx_logs (
     remote_addr String,
     remote_user String,
     request String,
+    request_method String,
+    request_uri String,
+    resource_type Nullable(String),
+    resource_id Nullable(UInt32),
     status UInt16,
     body_bytes_sent UInt64,
+    request_time Float32,
     http_referer String,
     http_user_agent String,
-    request_length UInt32,
-    request_time Float32
+    real_ip String,
+    uid Nullable(UInt32)
 ) ENGINE = MergeTree
 ORDER BY time_local;
 

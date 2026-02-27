@@ -1,30 +1,6 @@
 version: "3.9"
 
 services:
-  nginx:
-    image: nginx:1.27-alpine
-    command: ["nginx", "-g", "daemon off;"]
-    container_name: nginx
-    ports:
-      - "8090:80"
-    volumes:
-      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
-      - ./nginx/conf.d:/etc/nginx/conf.d:ro
-      - nginx_logs:/var/log/nginx
-    depends_on:
-      - app
-    networks:
-      - app-network
-
-  app:
-    image: php:8.3-fpm-alpine
-    container_name: php-fpm
-    working_dir: /var/www/html
-    volumes:
-      - ./app:/var/www/html
-    networks:
-      - app-network
-
   clickhouse:
     image: clickhouse/clickhouse-server:24.3
     container_name: clickhouse
@@ -49,12 +25,13 @@ services:
     container_name: fluentbit
     depends_on:
       - clickhouse
-      - nginx
     volumes:
       - ./fluentbit/fluent-bit.conf:/fluent-bit/etc/fluent-bit.conf:ro
       - ./fluentbit/parsers.conf:/fluent-bit/etc/parsers.conf:ro
+      - ./fluentbit/extract_resource.lua:/fluent-bit/etc/extract_resource.lua:ro
       - ./logs:/var/log/simulator:ro
-      - nginx_logs:/var/log/nginx
+      - /var/log/nginx:/var/log/nginx:ro
+      - ./remote-nginx-logs:/var/log/remote-nginx
     command:
       ["/fluent-bit/bin/fluent-bit", "-c", "/fluent-bit/etc/fluent-bit.conf"]
     networks:
@@ -62,7 +39,6 @@ services:
 
 volumes:
   clickhouse_data:
-  nginx_logs:
 
 networks:
   app-network:
